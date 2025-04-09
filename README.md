@@ -75,4 +75,7 @@ sudo systemctl stop nginx
 
 ![image](https://github.com/user-attachments/assets/d07864d3-b6ea-4ab6-a555-a2e494ab79c9)
 
+#![image](https://github.com/user-attachments/assets/bb20fa82-7052-40f9-860d-17cec70e6e04)
+
+
 
